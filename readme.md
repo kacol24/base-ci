@@ -39,7 +39,7 @@ The UhOh! error library is from [this repo](https://github.com/dhrrgn/codeignite
 
 This is a debugging function to help speed up development.
 
-The code is taken from (https://github.com/joostvanveen/codeigniter-best-practises) by Joost van Veen (https://github.com/joostvanveen)
+The code is taken from (https://github.com/joostvanveen/codeigniter-best-practises) by Joost van Veen
 
 ## Route Helper
 
